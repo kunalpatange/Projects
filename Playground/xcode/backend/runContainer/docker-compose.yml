@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  app:
+    container_name: python-execution
+    image: python-execution
+    build: .
+    stdin_open: true
+    tty: true
+    volumes:
+      - .:/runpython

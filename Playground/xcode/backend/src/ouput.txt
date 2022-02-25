@@ -1,0 +1,4 @@
+  File "/runpython/run.py", line 1
+    print(i m good)
+            ^
+SyntaxError: invalid syntax
