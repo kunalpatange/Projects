@@ -1,0 +1,7 @@
+INSERT INTO tpalla.article_details (article_number, issue_id, title, text, date, writer_id) VALUES (1, 1, 'Ten unspoken truths about taxes', 'This is a sample text for ''Ten unspoken truths about taxes''', '2022-03-07', 2);
+INSERT INTO tpalla.article_details (article_number, issue_id, title, text, date, writer_id) VALUES (1, 2, 'The Ocean pollution and marine debris', 'This is a sample text for ''The Ocean pollution and marine debris''', '2022-03-08', 4);
+INSERT INTO tpalla.article_details (article_number, issue_id, title, text, date, writer_id) VALUES (1, 3, 'title', 'This is sample text for ''text''', '2022-02-05', 5);
+INSERT INTO tpalla.article_details (article_number, issue_id, title, text, date, writer_id) VALUES (2, 1, 'Economics and benefits', 'This is a sample text for ''Economics and benefits''', '2022-03-07', 2);
+INSERT INTO tpalla.article_details (article_number, issue_id, title, text, date, writer_id) VALUES (2, 2, 'Lost Judgment: The Kaito Files DLC Releasing Later This Month', 'This is a sample text for ''Lost Judgment''', '2022-03-07', 4);
+INSERT INTO tpalla.article_details (article_number, issue_id, title, text, date, writer_id) VALUES (3, 1, 'War and its effect', 'This is a sample text for ''War and its effect''', '2022-03-08', 2);
+INSERT INTO tpalla.article_details (article_number, issue_id, title, text, date, writer_id) VALUES (3, 2, 'Mental Health', 'This is a sample text for ''Mental Health''', '2022-03-07', 4);

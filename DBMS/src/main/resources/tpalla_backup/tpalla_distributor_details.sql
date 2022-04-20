@@ -1,0 +1,7 @@
+INSERT INTO tpalla.distributor_details (distributor_id, contact_person, phone_number, type, name, acccount_Id) VALUES (1, 'Chris Patt', '9843499451', 'wholesale', 'Vignesh Iyer', 1);
+INSERT INTO tpalla.distributor_details (distributor_id, contact_person, phone_number, type, name, acccount_Id) VALUES (3, 'Noah Williamson', '7443499451', 'bookstore', 'Baker & Tailor Group', 2);
+INSERT INTO tpalla.distributor_details (distributor_id, contact_person, phone_number, type, name, acccount_Id) VALUES (4, 'Tom Hagen', '7422254421', 'library', 'American West Books', 3);
+INSERT INTO tpalla.distributor_details (distributor_id, contact_person, phone_number, type, name, acccount_Id) VALUES (5, 'Vignesh Iyer', '9845107822', 'bookstore', 'Freedom Books', 4);
+INSERT INTO tpalla.distributor_details (distributor_id, contact_person, phone_number, type, name, acccount_Id) VALUES (6, 'Arun Pitt', '9843499423', 'wholesale', 'Ingram Content Group', 5);
+INSERT INTO tpalla.distributor_details (distributor_id, contact_person, phone_number, type, name, acccount_Id) VALUES (7, 'David lee', '9843499426', 'library', 'UniLib shop', 6);
+INSERT INTO tpalla.distributor_details (distributor_id, contact_person, phone_number, type, name, acccount_Id) VALUES (8, 'Tim Cook', '9843499426', 'bookstore', 'book depot', 7);

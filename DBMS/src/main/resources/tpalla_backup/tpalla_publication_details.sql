@@ -1,0 +1,17 @@
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (1, 'AARP The Magazine', 'General', 'Magazine', 1100);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (2, 'Harry Potter', 'Fictional', 'Book', 4000);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (3, 'Atomic Habits', 'Motivational', 'Book', 5000);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (4, 'Game Informer', 'Fictional', 'Magazine', 10000);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (5, 'Family Circle', 'General', 'Magazine', 1100);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (6, 'Death Note', 'Fictional', 'Magazine', 4023);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (7, 'Naruto', 'Anime', 'Magazine', 1500);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (12, 'test', 'new_test', 'test', 12);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (13, 'Random', 'Random', 'Random', 111);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (14, 'BCD', 'ABC', 'ABC', 1111);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (15, 'title', 'topic', 'Book', 100);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (16, 'Title', 'Topic', '1', 100);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (17, 'title', 'topic', 'Book', 100);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (18, '1', '1', 'Book', 1);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (19, '1', '1', 'Book', 1);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (20, '1', '1', 'Book', 1);
+INSERT INTO tpalla.publication_details (publication_id, title, topic, publication_type, number_of_copies) VALUES (21, '1', '1', 'Book', 1);
